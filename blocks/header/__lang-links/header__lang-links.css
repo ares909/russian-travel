@@ -1,0 +1,6 @@
+.header__lang-links {
+  display: flex;
+  flex-direction: row;
+  justify-items: space-between;
+  align-items: center;
+}

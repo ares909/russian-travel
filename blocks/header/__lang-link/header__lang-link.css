@@ -1,0 +1,23 @@
+.header__lang-link {
+  padding: 0;
+  font-size: 24px;
+  line-height: 1;
+  text-align: right;
+  text-decoration: none;
+  color: inherit;
+}
+
+.header__lang-link:first-child {
+  margin-right: 16px;
+}
+
+.header__lang-link:hover {
+  text-decoration: underline;
+}
+.header__lang-link:focus {
+  text-decoration: underline;
+}
+.header__lang-link:active {
+  text-decoration: underline;
+}
+

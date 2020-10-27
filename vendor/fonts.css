@@ -1,0 +1,153 @@
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Inter-Thin.woff2?v=3.15") format("woff2"),
+       local("Inter-Thin.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Inter-ThinItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-ThinItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 200;
+  font-display: swap;
+  src: local("Inter-ExtraLight.woff2?v=3.15") format("woff2"),
+       local("Inter-ExtraLight.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 200;
+  font-display: swap;
+  src: local("Inter-ExtraLightItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-ExtraLightItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Inter-Light.woff2?v=3.15") format("woff2"),
+       local("Inter-Light.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Inter-LightItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-LightItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Inter-Regular.woff2?v=3.15") format("woff2"),
+       local("Inter-Regular.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Inter-Italic.woff2?v=3.15") format("woff2"),
+       local("Inter-Italic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Inter-Medium.woff2?v=3.15") format("woff2"),
+       local("Inter-Medium.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Inter-MediumItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-MediumItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local("Inter-SemiBold.woff2?v=3.15") format("woff2"),
+       local("Inter-SemiBold.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 600;
+  font-display: swap;
+  src: local("Inter-SemiBoldItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-SemiBoldItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Inter-Bold.woff2?v=3.15") format("woff2"),
+       local("Inter-Bold.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Inter-BoldItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-BoldItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local("Inter-ExtraBold.woff2?v=3.15") format("woff2"),
+       local("Inter-ExtraBold.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 800;
+  font-display: swap;
+  src: local("Inter-ExtraBoldItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-ExtraBoldItalic.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Inter-Black.woff2?v=3.15") format("woff2"),
+       local("Inter-Black.woff?v=3.15") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Inter-BlackItalic.woff2?v=3.15") format("woff2"),
+       local("Inter-BlackItalic.woff?v=3.15") format("woff");
+}
+
