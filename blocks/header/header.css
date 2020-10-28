@@ -1,5 +1,5 @@
 .header {
-  width: 92.5%;
+  max-width: 95%;
   margin: 28px auto 56px;
   display: flex;
   flex-direction: row;
