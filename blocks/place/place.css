@@ -1,3 +1,8 @@
 .place {
   display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, auto);
+  grid-gap: 40px 48px;
+  grid-auto-flow: column;
+  justify-content: space-between;
 }

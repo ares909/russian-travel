@@ -1,0 +1,6 @@
+.place__container {
+  margin: 0;
+  grid-column-start: 1;
+  grid-row-start: 2;
+  width: 100%;
+}
