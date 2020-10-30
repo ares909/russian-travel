@@ -4,3 +4,12 @@
   height: 52px;
   justify-self: flex-start;
 }
+
+@media (max-width: 320px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+    background-size: contain;
+
+  }
+}

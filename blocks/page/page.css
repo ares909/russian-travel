@@ -3,10 +3,10 @@
 }
 
 .page {
-  min-width: 1280px;
+  min-width: 320px;
   max-width: 1980px;
   background-color: #2A2C2F;
-  margin: auto;
+
   color: white;
   font-family: 'Inter';
 }
