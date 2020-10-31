@@ -1,6 +1,17 @@
 .place__container {
   margin: 0;
+  position: relative;
   grid-column-start: 1;
   grid-row-start: 2;
   width: 100%;
+  display: block;
+  box-sizing: border-box;
+
+}
+
+.place__container:before {
+  content: '';
+  display: block;
+  padding-bottom: 100%;
+  box-sizing: border-box;
 }

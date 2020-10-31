@@ -1,4 +1,6 @@
 .photo-grid__item {
+  width: 100%;
+  display: block;
   box-sizing: border-box;
   margin: 0;
 }

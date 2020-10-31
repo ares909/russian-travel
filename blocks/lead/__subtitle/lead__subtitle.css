@@ -5,6 +5,7 @@
   font-size: 30px;
   line-height: 120%;
   text-align: center;
+  font-style:  normal;
 }
 
 @media (max-width: 1024px) {
