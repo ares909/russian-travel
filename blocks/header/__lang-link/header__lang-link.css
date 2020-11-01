@@ -11,18 +11,6 @@
   margin-right: 16px;
 }
 
-.header__lang-link:hover {
-  text-decoration: underline;
-}
-
-.header__lang-link:focus {
-  text-decoration: underline;
-}
-
-.header__lang-link:active {
-  text-decoration: underline;
-}
-
 @media (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;

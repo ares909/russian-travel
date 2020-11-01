@@ -5,7 +5,7 @@
 }
 
 @media (max-width: 320px) {
-  .intro__title {
+  .intro__list-item {
     font-size: 12px;
     line-height: 150%;
   }
