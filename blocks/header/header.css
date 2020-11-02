@@ -16,18 +16,20 @@
 @media (max-width: 1024px) {
   .header {
     max-width: 928px;
+    margin: 28px auto 48px;
   }
 }
 
 @media (max-width: 768px) {
   .header {
     max-width: 720px;
+    margin: 28px auto 48px;
   }
 }
 
 @media (max-width: 320px) {
   .header {
     max-width: 288px;
-    margin: 0 auto 0;
+    margin: 16px auto 0;
   }
 }

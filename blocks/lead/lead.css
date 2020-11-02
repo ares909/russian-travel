@@ -8,20 +8,20 @@
 @media (max-width: 1024px) {
   .lead {
     max-width: 928px;
-    margin: 48px 48px 92px;
+    margin: 48px auto 92px;
   }
 }
 
 @media (max-width: 768px) {
   .lead {
-    max-width: 720px;
-    margin: 48px 0 88px;
+    max-width: 768px;
+    margin: 48px 0 90px;
   }
 }
 
 @media (max-width: 320px) {
   .lead {
-    max-width: 320px;
-    margin: 48px 2px 64px;
+    min-width: 320px;
+    margin: 48px auto 64px;
   }
 }

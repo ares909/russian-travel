@@ -1,7 +1,8 @@
 .lead__title {
-  margin: 0 0 32px;
+  margin: 0 auto 32px;
   align-self: center;
   max-width: 720px;
+  font-style: normal;
   font-weight: 900;
   font-size: 96px;
   line-height: 104%;
@@ -10,19 +11,19 @@
 
 @media (max-width: 1024px) {
   .lead__title {
-    margin: 0 104px 32px;
+    margin: 0 auto 32px;
   }
 }
 
 @media (max-width: 768px) {
   .lead__title {
-    margin: 0 24px 32px;
+    margin: 0 auto 32px;
   }
 }
 
 @media (max-width: 320px) {
   .lead__title {
-    margin: 0 16px 16px;
+    margin: 0 auto 16px;
     font-size: 40px;
     line-height: 110%;
   }

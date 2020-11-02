@@ -1,23 +1,26 @@
 .place__title {
   margin: 0;
   font-weight: 900;
+  grid-area: title;
   font-size: 72px;
   line-height: 106%;
-  grid-area: title;
+  font-style: normal;
 }
 
 @media (max-width: 768px) {
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    align-self: center;
+    align-self: flex-end;
   }
 }
 
 @media (max-width: 320px) {
   .place__title {
+    min-width: 288px;
+    align-self: center;
+    text-align: left;
     font-size: 32px;
     line-height: 109%;
-
   }
 }

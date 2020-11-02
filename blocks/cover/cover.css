@@ -28,14 +28,15 @@
 
 @media (max-width: 1024px) {
   .cover {
-    max-width: 928px;
+    margin: 92px 0 0;
+    max-width: 1024px;
   }
 }
 
 @media (max-width: 768px) {
   .cover {
     margin: 88px auto 0;
-    max-width: 720px;
+    max-width: 768px;
   }
 }
 

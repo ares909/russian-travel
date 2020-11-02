@@ -1,3 +1,13 @@
 .place__paragraph_position_top {
-  margin-bottom: 27px;
+  margin-bottom: 26px;
+}
+
+.place__paragraph_position_top:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 320px) {
+  .place__paragraph_position_top {
+    margin-bottom: 25px;
+  }
 }
