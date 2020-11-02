@@ -7,7 +7,7 @@
   line-height: 112%;
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .menu__link {
     font-weight: normal;
     font-size: 24px;

@@ -1,0 +1,26 @@
+.cover__container {
+  max-width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  padding: 245px 312px 245px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__container {
+    padding: 195px 232px 195px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__container {
+    padding: 115px 104px 115px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__container {
+    padding: 33px 16px 33px;
+  }
+}

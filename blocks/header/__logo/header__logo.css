@@ -6,7 +6,13 @@
   background-size: contain;
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}
+@media (min-width:321px) and (max-width: 767px) {
   .header__logo {
     width: 142px;
     height: 42px;

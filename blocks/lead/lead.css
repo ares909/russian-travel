@@ -5,23 +5,23 @@
   flex-direction: column;
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .lead {
     max-width: 928px;
     margin: 48px auto 92px;
   }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .lead {
     max-width: 768px;
     margin: 48px 0 90px;
   }
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .lead {
-    min-width: 320px;
+    max-width: 320px;
     margin: 48px auto 64px;
   }
 }

@@ -11,14 +11,15 @@
 .place:last-child {
   margin-bottom: 0;
 }
-@media (max-width: 1024px) {
+
+@media screen and (max-width: 1024px) {
   .place {
     grid-template-columns: 47.42% calc(52.58% - 32px);
     grid-gap: 48px 32px;
   }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .place {
     grid-template-columns: 47.22% calc(52.78% - 28px);
     grid-gap: 48px 28px;
@@ -26,7 +27,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .place {
     display: flex;
     flex-direction: column;

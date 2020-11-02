@@ -4,7 +4,7 @@
   line-height: 150%;
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .intro__list-item {
     font-size: 12px;
     line-height: 150%;
