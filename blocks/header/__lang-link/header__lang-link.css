@@ -17,9 +17,3 @@
     line-height: 20px;
   }
 }
-@media (min-width:321px) and (max-width: 425px) {
-  .header__lang-link {
-    font-size: 18px;
-    line-height: 20px;
-  }
-}

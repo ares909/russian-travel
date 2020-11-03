@@ -5,13 +5,7 @@
   grid-area: website;
 }
 
-@media screen and (max-width: 320px) {
-  .place__website {
-    display: none;
-  }
-}
-
-@media screen and (min-width:321px) and (max-width: 424px) {
+@media screen and (max-width: 550px) {
   .place__website {
     display: none;
   }

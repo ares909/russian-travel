@@ -5,7 +5,7 @@
 
 @media screen and (max-width: 1024px) {
   .intro {
-    margin: 0 286px 0 48px;
+    margin: 0 0 0 48px;
   }
 }
 
@@ -16,15 +16,33 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .intro {
     max-width: 288px;
     margin: 0 auto 0;
   }
 }
-@media screen and (min-width:321px) and (max-width: 424px) {
+
+@media screen and (min-width:321px) and (max-width: 550px) {
   .intro {
     max-width: 90%;
-    margin: 0 auto 0;
+  }
+}
+
+@media screen and (min-width:769px) and (max-width: 1023px) {
+  .intro {
+    margin: 0 28% 0 5%;
+  }
+}
+
+@media screen and (min-width:1025px) and (max-width: 1279px) {
+  .intro {
+    margin: 0 28% 0 2%;
+  }
+}
+
+@media screen and (min-width:1281px) {
+  .intro {
+    margin: 0 28% 0 20%;
   }
 }

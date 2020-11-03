@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .place__title {
     min-width: 288px;
     align-self: center;
@@ -24,12 +24,17 @@
     line-height: 109%;
   }
 }
-@media screen and (min-width:321px) and (max-width: 424px) {
+
+@media screen and (min-width:321px) and (max-width: 550px) {
   .place__title {
     min-width: 90%;
-    align-self: center;
-    text-align: left;
-    font-size: 32px;
-    line-height: 109%;
+  }
+}
+
+@media screen and (min-width:769px) and (max-width: 1023px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 110%;
+    align-self: flex-end;
   }
 }

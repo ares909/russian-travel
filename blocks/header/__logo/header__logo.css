@@ -12,9 +12,3 @@
     height: 42px;
   }
 }
-@media (min-width:321px) and (max-width: 425px) {
-  .header__logo {
-    width: 142px;
-    height: 42px;
-  }
-}

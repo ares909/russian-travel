@@ -24,8 +24,21 @@
     padding: 33px 15px 33px;
   }
 }
-@media screen and (min-width:321px) and (max-width: 424px) {
+
+@media screen and (min-width:321px) and (max-width: 550px) {
   .cover__container {
-    padding: 33% 5% 33%;
+    padding: 20% 5% 20%;
+  }
+}
+
+@media screen and (min-width:769px) and (max-width: 1023px) {
+  .cover__container {
+    padding: 20% 20% 20%;
+  }
+}
+
+@media screen and (min-width:1025px) and (max-width: 1279px) {
+  .cover__container {
+    padding: 20% 25% 20%;
   }
 }
