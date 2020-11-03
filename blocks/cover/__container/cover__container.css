@@ -21,6 +21,11 @@
 
 @media screen and (max-width: 320px) {
   .cover__container {
-    padding: 33px 16px 33px;
+    padding: 33px 15px 33px;
+  }
+}
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .cover__container {
+    padding: 33% 5% 33%;
   }
 }

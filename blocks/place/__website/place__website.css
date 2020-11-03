@@ -10,3 +10,9 @@
     display: none;
   }
 }
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .place__website {
+    display: none;
+  }
+}

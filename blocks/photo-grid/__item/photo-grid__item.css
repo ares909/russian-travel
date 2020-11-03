@@ -13,3 +13,12 @@
     margin-bottom: 0px;
   }
 }
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .photo-grid__item {
+    margin-bottom: 12px;
+  }
+  .photo-grid__item:last-child {
+    margin-bottom: 0px;
+  }
+}

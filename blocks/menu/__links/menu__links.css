@@ -14,3 +14,12 @@
     row-gap: 32px;
   }
 }
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .menu__links {
+    display: grid;
+    grid-template-rows: repeat(5, min-content);
+    margin: 0;
+    row-gap: 32px;
+  }
+}

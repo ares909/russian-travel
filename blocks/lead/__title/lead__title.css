@@ -28,3 +28,10 @@
     line-height: 110%;
   }
 }
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .lead__title {
+    margin: 0 auto 16px;
+    font-size: 40px;
+    line-height: 110%;
+  }
+}

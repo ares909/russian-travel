@@ -40,7 +40,14 @@
 
 @media screen and (max-width: 320px) {
   .cover {
-    max-width: 320px;
+    min-width: 320px;
+    margin: 64px auto 0;
+  }
+}
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .cover {
+    max-width: 100%;
     margin: 64px auto 0;
   }
 }

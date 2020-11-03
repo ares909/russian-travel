@@ -24,3 +24,12 @@
     line-height: 109%;
   }
 }
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .place__title {
+    min-width: 90%;
+    align-self: center;
+    text-align: left;
+    font-size: 32px;
+    line-height: 109%;
+  }
+}

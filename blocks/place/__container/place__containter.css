@@ -16,6 +16,13 @@
 
 @media screen and (max-width: 320px) {
   .place__container {
+    min-width: 320px;
+    margin: 32px 0 32px;
+  }
+}
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .place__container {
     margin: 32px 0 32px;
   }
 }

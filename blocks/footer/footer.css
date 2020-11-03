@@ -27,3 +27,12 @@
     flex-direction: column;
   }
 }
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .footer {
+    max-width: 186px;
+    margin: 64px auto 24px 16px;
+    display: flex;
+    flex-direction: column;
+  }
+}

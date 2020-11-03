@@ -31,7 +31,16 @@
   .place {
     display: flex;
     flex-direction: column;
-    grid-gap: 0px 32px;
+    grid-gap: 0;
+    margin-bottom: 49px;
+  }
+}
+
+@media screen and (min-width:321px) and (max-width: 424px) {
+  .place {
+    display: flex;
+    flex-direction: column;
+    grid-gap: 0;
     margin-bottom: 49px;
   }
 }
