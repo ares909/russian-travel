@@ -5,6 +5,9 @@
   align-items: center;
   justify-items: center;
   padding: 245px 312px 245px;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1024px) {
