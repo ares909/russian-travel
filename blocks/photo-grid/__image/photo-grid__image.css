@@ -4,3 +4,11 @@
   width: 100%;
   display: block;
 }
+@media screen and (max-width: 550px) {
+  .photo-grid__image {
+    margin-bottom: 12px;
+  }
+  .photo-grid__image:last-child {
+    margin-bottom: 0px;
+  }
+}

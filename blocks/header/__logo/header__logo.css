@@ -1,12 +1,11 @@
 .header__logo {
-  background-image: url(../images/header__logo.svg);
   width: 176px;
   height: 52px;
   justify-self: flex-start;
-  background-size: contain;
+  object-fit: contain;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .header__logo {
     width: 142px;
     height: 42px;
